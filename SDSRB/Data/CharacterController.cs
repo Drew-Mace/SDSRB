@@ -7,27 +7,27 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace SDSRB.Data
 {
-    public class CharacteController : Controller
+    public class CharacterController : Controller
     {
-        // GET: Characte
+        // GET: Character
         public ActionResult Index()
         {
             return View();
         }
 
-        // GET: Characte/Details/5
+        // GET: Character/Details/5
         public ActionResult Details(int id)
         {
             return View();
         }
 
-        // GET: Characte/Create
+        // GET: Character/Create
         public ActionResult Create()
         {
             return View();
         }
 
-        // POST: Characte/Create
+        // POST: Character/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Create(IFormCollection collection)
@@ -44,13 +44,13 @@ namespace SDSRB.Data
             }
         }
 
-        // GET: Characte/Edit/5
+        // GET: Character/Edit/5
         public ActionResult Edit(int id)
         {
             return View();
         }
 
-        // POST: Characte/Edit/5
+        // POST: Character/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Edit(int id, IFormCollection collection)
@@ -67,13 +67,13 @@ namespace SDSRB.Data
             }
         }
 
-        // GET: Characte/Delete/5
+        // GET: Character/Delete/5
         public ActionResult Delete(int id)
         {
             return View();
         }
 
-        // POST: Characte/Delete/5
+        // POST: Character/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Delete(int id, IFormCollection collection)
