@@ -1,0 +1,78 @@
+﻿@page
+@model SDSRB.CreateModel
+
+<h4>Character</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Character.Name" class="control-label"></label>
+                <input asp-for="Character.Name" class="form-control" />
+                <span asp-validation-for="Character.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Character.Org" class="control-label"></label>
+                <input asp-for="Character.Org" class="form-control" />
+                <span asp-validation-for="Character.Org" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Character.Background" class="control-label"></label>
+                <input asp-for="Character.Background" class="form-control" />
+                <span asp-validation-for="Character.Background" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Character.Dexterity" class="control-label"></label>
+                <input asp-for="Character.Dexterity" class="form-control" />
+                <span asp-validation-for="Character.Dexterity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Character.Resilience" class="control-label"></label>
+                <input asp-for="Character.Resilience" class="form-control" />
+                <span asp-validation-for="Character.Resilience" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Character.Intelligence" class="control-label"></label>
+                <input asp-for="Character.Intelligence" class="form-control" />
+                <span asp-validation-for="Character.Intelligence" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Character.Influence" class="control-label"></label>
+                <input asp-for="Character.Influence" class="form-control" />
+                <span asp-validation-for="Character.Influence" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Character.Poise" class="control-label"></label>
+                <input asp-for="Character.Poise" class="form-control" />
+                <span asp-validation-for="Character.Poise" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Character.Strength" class="control-label"></label>
+                <input asp-for="Character.Strength" class="form-control" />
+                <span asp-validation-for="Character.Strength" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Character.Class" class="control-label"></label>
+                <input asp-for="Character.Class" class="form-control" />
+                <span asp-validation-for="Character.Class" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Character.Archetype" class="control-label"></label>
+                <input asp-for="Character.Archetype" class="form-control" />
+                <span asp-validation-for="Character.Archetype" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

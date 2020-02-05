@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using SDSRB.Pages;
 
 namespace SDSRB.Data
 {
@@ -12,5 +13,6 @@ namespace SDSRB.Data
             : base(options)
         {
         }
+        public DbSet<SDSRB.Pages.Character> Character { get; set; }
     }
 }

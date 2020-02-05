@@ -60,7 +60,6 @@ C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\SDSRB.RazorCo
 C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
 C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
 C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
-C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
 C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
 C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
 C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
@@ -70,7 +69,6 @@ C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\SDSRB.TagHelp
 C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\SDSRB.RazorCoreGenerate.cache
 C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LogOut.cshtml.g.cs
 C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
-C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
 C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\SDSRB.RazorAssemblyInfo.cache
 C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\SDSRB.RazorAssemblyInfo.cs
 C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\SDSRB.AssemblyInfoInputs.cache
@@ -180,10 +178,15 @@ C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\RazorDeclarat
 C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
 C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
 C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
-C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
 C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\Razor\Shared\LoginDisplay.razor.g.cs
 C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
 C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
 C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
 C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Todo.razor.g.cs
 C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\Razor\Pages\Todo.razor.g.cs
+C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\Razor\Pages\Create.cshtml.g.cs
+C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\Razor\Pages\Delete.cshtml.g.cs
+C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\Razor\Pages\Details.cshtml.g.cs
+C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\Razor\Pages\Edit.cshtml.g.cs
+C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Student2\source\repos\SDSRB\SDSRB\obj\Debug\netcoreapp3.1\Razor\Pages\_ValidationScriptsPartial.cshtml.g.cs
